@@ -1,7 +1,7 @@
 {
     "name": "ojet-accelerator",
-    "version": "0.2.0",
-    "description": "A JavaScript lib built for accelerating Oracle JET applications to lightning speed.",
+    "version": "0.2.1",
+    "description": "Accelerate Oracle JET application development to lightning speed!",
     "license": "MIT",
     "repository": "jtiagodev/ojet-accelerator",
     "keywords": [
